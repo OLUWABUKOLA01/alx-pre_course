@@ -1,4 +1,3 @@
 #!/bin/bash
-echO "ALX"
-
-ALX
+echo "ALX School is so cool!"
+echo "ALX School"
